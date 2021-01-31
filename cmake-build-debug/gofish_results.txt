@@ -1,0 +1,540 @@
+Deck has been created!
+Deck has been shuffled!
+
+
+Jamal has: 10d Qs 3s 2h 4s Ah 6h 
+Ricky has: 4d 2c 7d 6d 7c As 7h 
+
+CHECK IF THERE ARE BOOKS BEFORE GAME STARTS!
+Jamal has: 10d Qs 3s 2h 4s Ah 6h 
+Ricky has: 4d 2c 6d As 7h 
+
+GAME STARTS!
+
+Jamal asks - Do you have a 10?
+Ricky says - Go Fish! 
+Jamal draws Ks
+
+Jamal has: Ks 10d Qs 3s 2h 4s Ah 6h 
+Ricky has: 4d 2c 6d As 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 4?
+Jamal says - I have a 4!
+Ricky books the 4!
+
+Jamal has: Ks 10d Qs 3s 2h Ah 6h 
+Ricky has: 2c 6d As 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 2?
+Jamal says - I have a 2!
+Ricky books the 2!
+
+Jamal has: Ks 10d Qs 3s Ah 6h 
+Ricky has: 6d As 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 6?
+Jamal says - I have a 6!
+Ricky books the 6!
+
+Jamal has: Ks 10d Qs 3s Ah 
+Ricky has: As 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a A?
+Jamal says - I have a A!
+Ricky books the A!
+
+Jamal has: Ks 10d Qs 3s 
+Ricky has: 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 7?
+Jamal says - Go Fish! 
+Ricky draws 6s
+
+Jamal has: Ks 10d Qs 3s 
+Ricky has: 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Jamal asks - Do you have a K?
+Ricky says - Go Fish! 
+Jamal draws Jd
+
+Jamal has: Jd Ks 10d Qs 3s 
+Ricky has: 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 6?
+Jamal says - Go Fish! 
+Ricky draws 4c
+
+Jamal has: Jd Ks 10d Qs 3s 
+Ricky has: 4c 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Jamal asks - Do you have a J?
+Ricky says - Go Fish! 
+Jamal draws 5s
+
+Jamal has: 5s Jd Ks 10d Qs 3s 
+Ricky has: 4c 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 4?
+Jamal says - Go Fish! 
+Ricky draws 3d
+
+Jamal has: 5s Jd Ks 10d Qs 3s 
+Ricky has: 3d 4c 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 5?
+Ricky says - Go Fish! 
+Jamal draws 2d
+
+Jamal has: 2d 5s Jd Ks 10d Qs 3s 
+Ricky has: 3d 4c 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 3?
+Jamal says - I have a 3!
+Ricky books the 3!
+
+Jamal has: 2d 5s Jd Ks 10d Qs 
+Ricky has: 4c 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 4?
+Jamal says - Go Fish! 
+Ricky draws 5d
+
+Jamal has: 2d 5s Jd Ks 10d Qs 
+Ricky has: 5d 4c 6s 7h 
+Jamal's Books: 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 2?
+Ricky says - Go Fish! 
+Jamal draws Qh
+Jamal books the Q!
+
+Jamal has: 2d 5s Jd Ks 10d 
+Ricky has: 5d 4c 6s 7h 
+Jamal's Books: Qh Qs 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 5?
+Jamal says - I have a 5!
+Ricky books the 5!
+
+Jamal has: 2d Jd Ks 10d 
+Ricky has: 4c 6s 7h 
+Jamal's Books: Qh Qs 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 4?
+Jamal says - Go Fish! 
+Ricky draws 9s
+
+Jamal has: 2d Jd Ks 10d 
+Ricky has: 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 2?
+Ricky says - Go Fish! 
+Jamal draws 10s
+Jamal books the 10!
+
+Jamal has: 2d Jd Ks 
+Ricky has: 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 9?
+Jamal says - Go Fish! 
+Ricky draws 5h
+
+Jamal has: 2d Jd Ks 
+Ricky has: 5h 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 2?
+Ricky says - Go Fish! 
+Jamal draws 3c
+
+Jamal has: 3c 2d Jd Ks 
+Ricky has: 5h 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 5?
+Jamal says - Go Fish! 
+Ricky draws 3h
+
+Jamal has: 3c 2d Jd Ks 
+Ricky has: 3h 5h 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 3?
+Ricky says - I have a 3!
+Jamal books the 3!
+
+Jamal has: 2d Jd Ks 
+Ricky has: 5h 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 2?
+Ricky says - Go Fish! 
+Jamal draws Js
+Jamal books the J!
+
+Jamal has: 2d Ks 
+Ricky has: 5h 9s 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 5?
+Jamal says - Go Fish! 
+Ricky draws 9h
+Ricky books the 9!
+
+Jamal has: 2d Ks 
+Ricky has: 5h 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 2?
+Ricky says - Go Fish! 
+Jamal draws 9c
+
+Jamal has: 9c 2d Ks 
+Ricky has: 5h 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 5?
+Jamal says - Go Fish! 
+Ricky draws 8d
+
+Jamal has: 9c 2d Ks 
+Ricky has: 8d 5h 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 9?
+Ricky says - Go Fish! 
+Jamal draws 2s
+Jamal books the 2!
+
+Jamal has: 9c Ks 
+Ricky has: 8d 5h 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 8?
+Jamal says - Go Fish! 
+Ricky draws 10h
+
+Jamal has: 9c Ks 
+Ricky has: 10h 8d 5h 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 9?
+Ricky says - Go Fish! 
+Jamal draws Jc
+
+Jamal has: Jc 9c Ks 
+Ricky has: 10h 8d 5h 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 10?
+Jamal says - Go Fish! 
+Ricky draws 5c
+Ricky books the 5!
+
+Jamal has: Jc 9c Ks 
+Ricky has: 10h 8d 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a J?
+Ricky says - Go Fish! 
+Jamal draws 8c
+
+Jamal has: 8c Jc 9c Ks 
+Ricky has: 10h 8d 4c 6s 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 10?
+Jamal says - Go Fish! 
+Ricky draws 6c
+Ricky books the 6!
+
+Jamal has: 8c Jc 9c Ks 
+Ricky has: 10h 8d 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 8?
+Ricky says - I have a 8!
+Jamal books the 8!
+
+Jamal has: Jc 9c Ks 
+Ricky has: 10h 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 
+-------------------------------------------------------
+
+Jamal asks - Do you have a J?
+Ricky says - Go Fish! 
+Jamal draws 10c
+
+Jamal has: 10c Jc 9c Ks 
+Ricky has: 10h 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 10?
+Jamal says - I have a 10!
+Ricky books the 10!
+
+Jamal has: Jc 9c Ks 
+Ricky has: 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a 4?
+Jamal says - Go Fish! 
+Ricky draws Qd
+
+Jamal has: Jc 9c Ks 
+Ricky has: Qd 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a J?
+Ricky says - Go Fish! 
+Jamal draws 8s
+
+Jamal has: 8s Jc 9c Ks 
+Ricky has: Qd 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a Q?
+Jamal says - Go Fish! 
+Ricky draws Kd
+
+Jamal has: 8s Jc 9c Ks 
+Ricky has: Kd Qd 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 8?
+Ricky says - Go Fish! 
+Jamal draws 4h
+
+Jamal has: 4h 8s Jc 9c Ks 
+Ricky has: Kd Qd 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a K?
+Jamal says - I have a K!
+Ricky books the K!
+
+Jamal has: 4h 8s Jc 9c 
+Ricky has: Qd 4c 7h 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 
+-------------------------------------------------------
+
+Ricky asks - Do you have a Q?
+Jamal says - Go Fish! 
+Ricky draws 7s
+Ricky books the 7!
+
+Jamal has: 4h 8s Jc 9c 
+Ricky has: Qd 4c 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 4?
+Ricky says - I have a 4!
+Jamal books the 4!
+
+Jamal has: 8s Jc 9c 
+Ricky has: Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 8?
+Ricky says - Go Fish! 
+Jamal draws Ac
+
+Jamal has: Ac 8s Jc 9c 
+Ricky has: Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a Q?
+Jamal says - Go Fish! 
+Ricky draws Kc
+
+Jamal has: Ac 8s Jc 9c 
+Ricky has: Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a A?
+Ricky says - Go Fish! 
+Jamal draws Ad
+Jamal books the A!
+
+Jamal has: 8s Jc 9c 
+Ricky has: Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a K?
+Jamal says - Go Fish! 
+Ricky draws 8h
+
+Jamal has: 8s Jc 9c 
+Ricky has: 8h Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a 8?
+Ricky says - I have a 8!
+Jamal books the 8!
+
+Jamal has: Jc 9c 
+Ricky has: Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a J?
+Ricky says - Go Fish! 
+Jamal draws 9d
+Jamal books the 9!
+
+Jamal has: Jc 
+Ricky has: Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 9d 9c 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a K?
+Jamal says - Go Fish! 
+Ricky draws Jh
+
+Jamal has: Jc 
+Ricky has: Jh Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 9d 9c 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Jamal asks - Do you have a J?
+Ricky says - I have a J!
+Jamal books the J!
+
+Jamal has: 
+Ricky has: Kc Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 9d 9c Jc Jh 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h 
+-------------------------------------------------------
+
+Ricky asks - Do you have a K?
+Jamal says - I have a K!
+Ricky books the K!
+
+Jamal has: 
+Ricky has: Qd 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 9d 9c Jc Jh 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h Kh Kc 
+-------------------------------------------------------
+
+Ricky asks - Do you have a Q?
+Jamal says - I have a Q!
+Ricky books the Q!
+
+Jamal has: 
+Ricky has: 
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 9d 9c Jc Jh 
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h Kh Kc Qc Qd 
+-------------------------------------------------------
+RESULTS: 
+
+Jamal's Books: Qh Qs 10s 10d 3c 3h Js Jd 2s 2d 8c 8d 4h 4c Ad Ac 8s 8h 9d 9c Jc Jh 
+Jamal has 11 books!
+Ricky's Books: 7d 7c 4s 4d 2h 2c 6h 6d Ah As 3s 3d 5s 5d 9h 9s 5c 5h 6c 6s 10c 10h Ks Kd 7s 7h Kh Kc Qc Qd 
+Ricky has 15 books!
+
+Ricky wins the game!
